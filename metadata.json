@@ -1,0 +1,8 @@
+{
+  "name": "Mystic Artifacts Shop",
+  "description": "A premium, high-converting e-commerce shop for sacred and mystical artifacts, featuring Energy Shields, Manifestation Stones, and Ritual Kits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
